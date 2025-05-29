@@ -1,6 +1,6 @@
 # LP_cloud_removal
 This is the code implementation of "Thin Cloud Removal Method Based on Low-Frequency Residual Diffusion and High-Frequency Modulation Refinement by Laplacian Pyramid Decoupling"
-The paper is currently undergoing external review, and the code will be continuously improved in the future
+The paper is currently undergoing external review, and the code will be continuously improved in the future.
 
 ## Requirements
 1. Install Stage 1 environment, refer to [RDDM](https://github.com/nachifur/RDDM)
