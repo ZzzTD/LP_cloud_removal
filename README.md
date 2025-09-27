@@ -12,7 +12,7 @@ The paper is currently undergoing external review, and the code will be continuo
 2. T-Cloud [paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Ding_Uncertainty-Based_Thin_Cloud_Removal_Network_via_Conditional_Variational_Autoencoders_ACCV_2022_paper.pdf)
 
 3. CUHK-CR [paper](https://ieeexplore.ieee.org/abstract/document/10552304/)
-3. WHUS2-CR [paper](https://ieeexplore.ieee.org/abstract/document/10552304/)
+3. WHUS2-CR [paper](http://doi.org/10.3390/rs13010157)
    The dataset partitioned in the submitted paper can be found here:https://pan.baidu.com/s/1VfXcbfcBYnkvOaoNYdZ9Ng (Extracted code: WHUS)
 
 ## Train and Test
